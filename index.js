@@ -6,7 +6,7 @@ var koa = require('koa'),
 app.use(logger());
 
 app.use(function *(){
-    this.body = 'Hello World';
+    this.body = 'Hello World -- Update 1';
 });
 
 app.listen(port, function () {
