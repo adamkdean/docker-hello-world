@@ -1,0 +1,23 @@
+{
+  "name": "cloud66-hello-world",
+  "version": "0.0.1",
+  "description": "Hello world test service for Cloud 66 testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamkdean/cloud66-hello-world"
+  },
+  "author": "Adam K Dean <adamkdean@googlemail.com> (http://www.adamkdean.co.uk/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamkdean/cloud66-hello-world/issues"
+  },
+  "homepage": "https://github.com/adamkdean/cloud66-hello-world",
+  "dependencies": {
+    "koa": "^0.20.0",
+    "koa-logger": "^1.2.2"
+  }
+}
