@@ -1,2 +1,2 @@
-# cloud66-hello-world
-Hello world test service for Cloud 66 testing
+# docker-hello-world
+Hello world test service for Docker
