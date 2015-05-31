@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/adamkdean/docker-hello-world",
   "dependencies": {
+    "funkyname.js": "0.0.2",
     "koa": "^0.20.0",
     "koa-logger": "^1.2.2"
   }
